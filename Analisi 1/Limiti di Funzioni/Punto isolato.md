@@ -1,0 +1,1 @@
+Sia $D\subseteq\mathbb{R},D\ne\emptyset,x_0\in D$, diremo che $x_0$ è un punto isolato per $D$ se non è un [[Analisi 1/Limiti di Funzioni/Punto di accumulazione|punto di accumulazione]] per $D$.

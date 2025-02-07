@@ -1,0 +1,162 @@
+{
+  "version": "2.2.0",
+  "settings": {
+    "/": {
+      "profile": "Italiano",
+      "titleSuffix": "",
+      "inferNumberPrefix": true,
+      "inferNumberPrefixFromProperty": "",
+      "inferNumberPrefixRegExp": "^[0-9]+(\\.[0-9]+)*",
+      "numberPrefix": "",
+      "numberSuffix": "",
+      "numberInit": 1,
+      "numberStyle": "arabic",
+      "numberDefault": "auto",
+      "refFormat": "[type] [number] ([title])",
+      "noteMathLinkFormat": "[type] [number] ([title])",
+      "ignoreMainTheoremCalloutWithoutTitle": false,
+      "numberOnlyReferencedEquations": true,
+      "inferEqNumberPrefix": true,
+      "inferEqNumberPrefixFromProperty": "",
+      "inferEqNumberPrefixRegExp": "^[0-9]+(\\.[0-9]+)*",
+      "eqNumberPrefix": "",
+      "eqNumberSuffix": "",
+      "eqNumberInit": 1,
+      "eqNumberStyle": "arabic",
+      "eqRefPrefix": "",
+      "eqRefSuffix": "",
+      "labelPrefix": "",
+      "lineByLine": true,
+      "theoremCalloutStyle": "Custom",
+      "theoremCalloutFontInherit": false,
+      "beginProof": "\\begin{proof}",
+      "endProof": "\\end{proof}",
+      "insertSpace": true
+    }
+  },
+  "extraSettings": {
+    "foldDefault": "+",
+    "noteTitleInTheoremLink": true,
+    "noteTitleInEquationLink": true,
+    "profiles": {
+      "English": {
+        "id": "English",
+        "meta": {
+          "tags": [
+            "en"
+          ]
+        },
+        "body": {
+          "theorem": {
+            "axiom": "Axiom",
+            "definition": "Definition",
+            "lemma": "Lemma",
+            "proposition": "Proposition",
+            "theorem": "Theorem",
+            "corollary": "Corollary",
+            "claim": "Claim",
+            "assumption": "Assumption",
+            "example": "Example",
+            "exercise": "Exercise",
+            "conjecture": "Conjecture",
+            "hypothesis": "Hypothesis",
+            "remark": "Remark"
+          },
+          "proof": {
+            "begin": "Proof.",
+            "end": "□",
+            "linkedBeginPrefix": "Proof of ",
+            "linkedBeginSuffix": "."
+          }
+        }
+      },
+      "Italiano": {
+        "id": "Italiano",
+        "meta": {
+          "tags": [
+            "it"
+          ]
+        },
+        "body": {
+          "theorem": {
+            "axiom": "Assioma",
+            "definition": "Definizione",
+            "lemma": "Lemma",
+            "proposition": "Proposizione",
+            "theorem": "Teorema",
+            "corollary": "Corollario",
+            "claim": "Ipotesi",
+            "assumption": "Assunzione",
+            "example": "Esempio",
+            "exercise": "Esercizio",
+            "conjecture": "Congettura",
+            "hypothesis": "Ipotesi",
+            "remark": "Proprietà"
+          },
+          "proof": {
+            "begin": "Dimostrazione",
+            "end": "□",
+            "linkedBeginPrefix": "",
+            "linkedBeginSuffix": ""
+          }
+        }
+      }
+    },
+    "showTheoremTitleinBuiltin": true,
+    "showTheoremContentinBuiltin": false,
+    "renderEquationinBuiltin": true,
+    "triggerSuggest": "\\ref",
+    "triggerTheoremSuggest": "\\tref",
+    "triggerEquationSuggest": "\\eqref",
+    "triggerSuggestActiveNote": "\\rea",
+    "triggerTheoremSuggestActiveNote": "\\trea",
+    "triggerEquationSuggestActiveNote": "\\eqrea",
+    "triggerSuggestRecentNotes": "\\rer",
+    "triggerTheoremSuggestRecentNotes": "\\trer",
+    "triggerEquationSuggestRecentNotes": "\\eqrer",
+    "triggerSuggestDataview": "\\ref:d",
+    "triggerTheoremSuggestDataview": "\\tref:d",
+    "triggerEquationSuggestDataview": "\\eqref:d",
+    "enableSuggest": true,
+    "enableTheoremSuggest": true,
+    "enableEquationSuggest": true,
+    "enableSuggestActiveNote": true,
+    "enableTheoremSuggestActiveNote": true,
+    "enableEquationSuggestActiveNote": true,
+    "enableSuggestRecentNotes": true,
+    "enableTheoremSuggestRecentNotes": true,
+    "enableEquationSuggestRecentNotes": true,
+    "enableSuggestDataview": true,
+    "enableTheoremSuggestDataview": true,
+    "enableEquationSuggestDataview": true,
+    "renderMathInSuggestion": true,
+    "suggestNumber": 20,
+    "searchMethod": "Fuzzy",
+    "upWeightRecent": 0.1,
+    "searchLabel": false,
+    "modifierToJump": "Mod",
+    "modifierToNoteLink": "Shift",
+    "showModifierInstruction": true,
+    "suggestLeafOption": "Split right",
+    "importerNumThreads": 6,
+    "importerUtilization": 0.75,
+    "showTheoremCalloutEditButton": false,
+    "setOnlyTheoremAsMain": false,
+    "setLabelInModal": false,
+    "excludeExampleCallout": false,
+    "enableProof": true,
+    "enableMathPreviewInCalloutAndQuote": true,
+    "autocompleteDvQuery": "",
+    "searchModalQueryType": "both",
+    "searchModalRange": "recent",
+    "searchModalDvQuery": ""
+  },
+  "excludedFiles": [
+    "Fondamenti di Telecomunicazioni/Trasformate al limite/Delta di Dirac.md",
+    "Fondamenti di Telecomunicazioni/Trasformate al limite/Proprietà del delta di Dirac.md",
+    "Fondamenti di Telecomunicazioni/Trasformate al limite/Trasformate elementari.md",
+    "Elettrotecnica/Ipotesi fondamentali della teoria dei circuiti.md",
+    "Elettrotecnica/Circuiti in regime sinusoidale/Fasore.md",
+    "Elettrotecnica/Circuiti in regime sinusoidale/Trasformata di Steinmetz.md"
+  ]
+}

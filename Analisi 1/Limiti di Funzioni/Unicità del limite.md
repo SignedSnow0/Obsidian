@@ -1,0 +1,4 @@
+Sia $f:D\to\mathbb{R},x_0\in\overline{\mathbb{R}}$ [[Analisi 1/Limiti di Funzioni/Punto di accumulazione|punto di accumulazione]] per $D$, se esiste un [[Valore limite|valore limite]] $L\in\overline{\mathbb{R}}$ di $f$ per $x\to x_0$, allora esso è unico.
+
+## Dimostrazione
+Supponiamo per assurdo che esistano due [[Valore limite|valori limiti]] $L_1,L_2$ di $f$ per $x\to x_0$, allora grazie al [[Teorema ponte|teorema ponte]] concludiamo che ogni successione $a_n$ tale che $a_n\in D\setminus\{x_0\}$ e $a_n\to x_0$ si ha $f(a_n)\to L_1$ e $f(a_n)\to L_2$ in contraddizione con l'[[Analisi 1/Limiti di Successioni/Dimostrazioni/Unicità del limite|unicità del limite di successioni]] perciò necessariamente $L_1=L_2$.

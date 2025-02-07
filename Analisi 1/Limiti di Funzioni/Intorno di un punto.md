@@ -1,0 +1,1 @@
+Dato $x_0\in\overline{\mathbb{R}}$ e un [[Analisi 1/Limiti di Funzioni/Insieme aperto|insieme aperto]] $U\subset R$, diremo che $U$ è un intorno di $x_0$ se esiste $J$ nella [[Base di intorni|base di intorni]] di $x_0$ tale che $J\subset U$

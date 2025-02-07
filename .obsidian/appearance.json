@@ -1,0 +1,15 @@
+{
+  "accentColor": "",
+  "cssTheme": "Rosé Pine",
+  "baseFontSize": 18,
+  "translucency": true,
+  "enabledCssSnippets": [
+    "image-size"
+  ],
+  "textFontFamily": "",
+  "monospaceFontFamily": "FiraCode Nerd Font",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "theme": "obsidian",
+  "showRibbon": true
+}
