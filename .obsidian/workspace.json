@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reti di Calcolatori/Applicazioni Client - Server/C.md",
+                "file": "Reti di Calcolatori/Protocolli di Rete/Open  System Interconnection.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "C"
+              "title": "Open  System Interconnection"
             },
             "group": "fc7c8fd053cbed14"
           }
@@ -34,12 +34,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reti di Calcolatori/Applicazioni Client - Server/C.md",
+                "file": "Reti di Calcolatori/Protocolli di Rete/Open  System Interconnection.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "C"
+              "title": "Open  System Interconnection"
             },
             "group": "fc7c8fd053cbed14"
           }
@@ -227,12 +227,15 @@
   },
   "active": "92ab32ac1d90c83b",
   "lastOpenFiles": [
+    "Reti di Calcolatori/Applicazioni Client - Server/Generalità.md",
+    "Reti di Calcolatori/Protocolli di Rete/Open  System Interconnection.md",
+    "Reti di Calcolatori/Protocolli di Rete/Open System Interconnection.md",
+    "Reti di Calcolatori/Protocolli di Rete",
+    "Reti di Calcolatori/Applicazioni Client - Server/Java.md",
+    "Reti di Calcolatori/Applicazioni Client - Server/C.md",
     "Reti di Calcolatori/Sistemi di Chiamate Remote/C - SunRPC.md",
     "Reti di Calcolatori/Sistemi di Chiamate Remote/Java - RMI.md",
     "Reti di Calcolatori/Sistemi di Chiamate Remote/Generalitá.md",
-    "Reti di Calcolatori/Applicazioni Client - Server/Java.md",
-    "Reti di Calcolatori/Applicazioni Client - Server/Generalità.md",
-    "Reti di Calcolatori/Applicazioni Client - Server/C.md",
     "Reti di Calcolatori/Sistemi di Nomi.md",
     "Reti di Calcolatori/Applicazioni Client - Server",
     "QFT/Altro/Teorema di Noether in QFT.md",
@@ -254,8 +257,6 @@
     "Elettrotecnica/Componenti/Classificazione dei componenti elettrici.md",
     "Elettrotecnica/Ipotesi fondamentali della teoria dei circuiti.md",
     "Sistemi operativi/Processi.md",
-    "Sistemi operativi/Modello a memoria comune.md",
-    "Sistemi operativi/Messaggi.md",
     "Fondamenti di Controlli Automatici/Sistemi dinamici a tempo continuo",
     "Fondamenti di Telecomunicazioni/Dispensa.pdf",
     "QFT",
@@ -272,7 +273,6 @@
     "Media/Reti logiche/Multiplexer.svg",
     "Media/Reti logiche/Nor.svg",
     "Media/Reti logiche/Not.svg",
-    "Media/Reti logiche",
     "Untitled.canvas"
   ]
 }
